@@ -1,5 +1,5 @@
 from .Factorial import factorial
-from .Fib import fibonachi
+from .Fib import fibonacci
 
 
-__all__ = [ "fibinachi" ]
+__all__ = [ "fibonacci" ]
