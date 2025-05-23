@@ -2,4 +2,4 @@ from .Factorial import factorial
 from .Fib import fibonachi
 
 
-__all__ = [ fibinachi ]
+__all__ = [ "fibinachi" ]
