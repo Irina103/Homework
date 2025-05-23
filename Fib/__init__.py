@@ -1,1 +1,1 @@
-from .Fib import fibonacci
+from .code import fibonacci
